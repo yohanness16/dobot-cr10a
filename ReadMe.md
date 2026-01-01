@@ -17,8 +17,8 @@ This project uses Python and Peter Corke’s [Robotics Toolbox](https://petercor
 Clone this repository to your local machine:
 
 ```bash
-git clone <your-repo-link>
-cd <your-project-folder>
+git clone https://github.com/yohanness16/dobot-cr10a.git
+cd PYTHON
 
 ```
 
